@@ -46,7 +46,7 @@
     "enum-utils": "1.0.0",
     "history": "4.10.1",
     "http-method-enum": "1.0.0",
-    "immutable": "4.0.0-rc.12",
+    "immutable": "4.0.0-rc.14",
     "lodash": "4.17.21",
     "re-reselect": "3.4.0",
     "react": "16.13.1",
