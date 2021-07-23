@@ -28,7 +28,7 @@
     "@types/react": "16.14.11",
     "prettier": "1.19.1",
     "tslib": "1.14.1",
-    "typescript": "3.5.3"
+    "typescript": "3.9.10"
   },
   "prettier": "@misk/prettier"
 }
