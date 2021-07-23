@@ -23,7 +23,7 @@
     "@misk/core": "0.1.27-26",
     "@misk/simpleredux": "0.1.27-26",
     "@blueprintjs/core": "3.19.1",
-    "@blueprintjs/datetime": "3.13.0",
+    "@blueprintjs/datetime": "3.23.6",
     "@blueprintjs/icons": "3.13.0",
     "@blueprintjs/select": "3.16.6",
     "@blueprintjs/table": "3.9.0",
