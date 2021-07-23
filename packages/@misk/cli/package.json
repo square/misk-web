@@ -52,7 +52,7 @@
     "@misk/dev": "0.1.27-26",
     "@misk/tslint": "0.1.27-26",
     "@testing-library/dom": "7.2.2",
-    "@testing-library/react": "9.1.1",
+    "@testing-library/react": "9.5.0",
     "@types/fs-extra": "9.0.12",
     "@types/jest": "25.2.3",
     "@types/klaw": "3.0.1",
